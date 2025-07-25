@@ -69,7 +69,7 @@ const ProjectsSection = () => {
       title: 'AIS Security',
       description: 'Corporate website with a professional, responsive design for seamless business representation.',
       tech: ['Python', 'AI/ML', 'Flask', 'TensorFlow'],
-      image: '/projects/project1.png',
+      image: 'public/lovable-uploads/b40e631d-638d-45fe-a08d-fa521d30492b.png,
       liveUrl: 'https://www.aisprivatelimited.in/',
       codeUrl: '#'
     },
@@ -77,7 +77,7 @@ const ProjectsSection = () => {
       title: 'AIRCOOl HVAC',
       description: 'Modern HVAC service landing page with intuitive UI and smooth animations.',
       tech: ['JavaScript', 'Node.js', 'Socket.io', 'CSS'],
-      image: '/projects/project2.png',
+      image: 'public/lovable-uploads/3cb650f4-f6d6-44fd-b0b4-7fe143c99a7d.png',
       liveUrl: 'https://air-cool.vercel.app/',
       codeUrl: '#'
     },
@@ -85,7 +85,7 @@ const ProjectsSection = () => {
       title: 'HR-GPT AI',
       description: 'Modern HVAC service landing page with intuitive UI and smooth animations.',
       tech: ['HTML5', 'CSS3', 'JavaScript', 'Canvas API'],
-      image: '/projects/project3.png',
+      image: 'public/lovable-uploads/28a83223-a915-41a7-9c7a-ab63118d1442.png,
       liveUrl: 'https://hrgptai.vercel.app/',
       codeUrl: '#'
     },
@@ -93,7 +93,7 @@ const ProjectsSection = () => {
       title: 'Farm Food',
       description: 'Vibrant food delivery website designed to enhance user engagement..',
       tech: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
-      image: '/projects/project4.png',
+      image: 'public/lovable-uploads/21471452-c07a-40d9-8284-312b468baa12.png,
       liveUrl: 'https://foodie-ten-self.vercel.app/',
       codeUrl: '#'
     },
@@ -101,7 +101,7 @@ const ProjectsSection = () => {
       title: 'Blank-Filler',
       description: 'Productivity tool for quick blank space management in text content.',
       tech: ['HTML', 'CSS', 'Flexbox', 'Grid'],
-      image: '/projects/project5.png',
+      image: public/lovable-uploads/11f8fc70-6ecc-4c00-9e48-ef0c8c056ed0.png,
       liveUrl: 'https://blank-filler.vercel.app/',
       codeUrl: '#'
     }
