@@ -66,42 +66,42 @@ const ProjectCard = ({ project, index }: { project: any; index: number }) => {
 const ProjectsSection = () => {
   const projects = [
     {
-      title: 'MindSync AI',
-      description: 'AI Mental Wellness Chatbot built with Python and machine learning algorithms to provide supportive conversations.',
+      title: 'AIS Security',
+      description: 'Corporate website with a professional, responsive design for seamless business representation.',
       tech: ['Python', 'AI/ML', 'Flask', 'TensorFlow'],
-      image: '/lovable-uploads/b40e631d-638d-45fe-a08d-fa521d30492b.png',
+      image: '/projects/project1.png',
       liveUrl: 'https://www.aisprivatelimited.in/',
       codeUrl: '#'
     },
     {
-      title: 'FreeChat',
-      description: 'Anonymous Support Chat platform enabling safe, judgment-free conversations for mental health support.',
+      title: 'AIRCOOl HVAC',
+      description: 'Modern HVAC service landing page with intuitive UI and smooth animations.',
       tech: ['JavaScript', 'Node.js', 'Socket.io', 'CSS'],
-      image: '/lovable-uploads/3cb650f4-f6d6-44fd-b0b4-7fe143c99a7d.png',
+      image: '/projects/project2.png',
       liveUrl: 'https://air-cool.vercel.app/',
       codeUrl: '#'
     },
     {
-      title: 'Claw Machine Game',
-      description: 'Interactive browser-based claw machine game built with vanilla JavaScript, HTML5 Canvas, and CSS animations.',
+      title: 'HR-GPT AI',
+      description: 'Modern HVAC service landing page with intuitive UI and smooth animations.',
       tech: ['HTML5', 'CSS3', 'JavaScript', 'Canvas API'],
-      image: '/lovable-uploads/28a83223-a915-41a7-9c7a-ab63118d1442.png',
+      image: '/projects/project3.png',
       liveUrl: 'https://hrgptai.vercel.app/',
       codeUrl: '#'
     },
     {
-      title: 'Aircool HVAC Services',
-      description: 'Responsive business website for HVAC services with modern design, service booking, and contact features.',
+      title: 'Farm Food',
+      description: 'Vibrant food delivery website designed to enhance user engagement..',
       tech: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
-      image: '/lovable-uploads/21471452-c07a-40d9-8284-312b468baa12.png',
+      image: '/projects/project4.png',
       liveUrl: 'https://foodie-ten-self.vercel.app/',
       codeUrl: '#'
     },
     {
-      title: 'Product Landing Website',
-      description: 'Multi-page product showcase website using advanced CSS Grid and Flexbox layouts with responsive design.',
+      title: 'Blank-Filler',
+      description: 'Productivity tool for quick blank space management in text content.',
       tech: ['HTML', 'CSS', 'Flexbox', 'Grid'],
-      image: '/lovable-uploads/11f8fc70-6ecc-4c00-9e48-ef0c8c056ed0.png',
+      image: '/projects/project5.png',
       liveUrl: 'https://blank-filler.vercel.app/',
       codeUrl: '#'
     }
